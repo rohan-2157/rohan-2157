@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohan-2157
-- 👀 I’m interested in Java, CCM
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
